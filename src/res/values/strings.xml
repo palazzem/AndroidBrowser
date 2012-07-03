@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MyBrowser</string>
+	<string name="go">Go</string>
+	<string name="stop">Stop</string>
+	<string name="reload">Reload</string>
+	<string name="home_page">http://www.unipg.it</string>
+	<string name="bookmark">Bookmark</string>
+	<string name="add">Add</string>
+	<string name="listText">My bookmark list</string>
+	<string name="delete">Delete</string>
+	<string name="bookmark_menu_title">Bookmark menu</string>
+
+</resources>
